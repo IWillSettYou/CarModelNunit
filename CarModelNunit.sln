@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarModelNunit", "CarModelNunit.csproj", "{8C76679F-D41D-42D7-B122-0242FF1F217F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarModelNunitTests", "..\CarModelNunitTests\CarModelNunitTests.csproj", "{21D5A672-6779-4EFA-B3FE-873F8C5E021D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8C76679F-D41D-42D7-B122-0242FF1F217F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C76679F-D41D-42D7-B122-0242FF1F217F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C76679F-D41D-42D7-B122-0242FF1F217F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21D5A672-6779-4EFA-B3FE-873F8C5E021D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D5A672-6779-4EFA-B3FE-873F8C5E021D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D5A672-6779-4EFA-B3FE-873F8C5E021D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D5A672-6779-4EFA-B3FE-873F8C5E021D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
